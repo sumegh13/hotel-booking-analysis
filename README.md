@@ -39,7 +39,7 @@ View the interactive Tableau Public dashboard here:
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+[Dashboard Preview](images)
 
 ## Project Presentation
 
